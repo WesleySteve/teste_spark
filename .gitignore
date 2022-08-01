@@ -130,5 +130,5 @@ dmypy.json
 
 # projeto
 
-*.db
-*.csv
+# *.db
+# *.csv
